@@ -79,7 +79,7 @@ The default values are Bitcoin (BTC) to USD (United States Dollar).
 
 ## Step 5: Modify/Copy Files
 Next, we need to copy a few files into our Arduino Sketch Folder.
-Copy the LittleFS Data "data" directory over to your Sketch Folder.
+Copy the LittleFS Data ["data" directory](https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/tree/main/LittleFS%20Data) over to your Sketch Folder.
 
 If you're using a default Arduino IDE installation it should be as follows:
 
