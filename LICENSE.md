@@ -12,7 +12,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ##### Summary
 
-*   [Crypto Ticker © 2022 NexGen Digital Solutions, LLC](https://github.com/ayushsharma82/ElegantOTA/)
+*   [Crypto Ticker © 2022 NexGen Digital Solutions, LLC](https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/)
 *   [ElegantOTA © 2019 Ayush Sharma](https://github.com/ayushsharma82/ElegantOTA/)
 *   [LittleFS © 2017 Arm Limited. All Rights Reserved](https://github.com/littlefs-project/littlefs/)
 *   [Adafruit GFX Library © 2012 Adafruit Industries. All Rights Reserved.](https://github.com/adafruit/Adafruit-GFX-Library/)
@@ -35,7 +35,7 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[Source](#) [License](#)
+[Source](https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/) [License](https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/LICENSE.md)
 
 ##### ElegantOTA
 
