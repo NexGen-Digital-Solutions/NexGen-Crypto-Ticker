@@ -47,11 +47,11 @@ If you're using the board shown in this tutorial you'll need to do the following
 - Next, go to: **Tools > Board > Board Manager> Type "esp8266" and download the Community esp8266 and install.**
 
 - Then, set up your chip as:
--- Tools -> Board -> NodeMCU 1.0 (ESP-12E Module)
--- Tools -> Flash Size -> 4M (3M SPIFFS)
--- Tools -> CPU Frequency -> 80 Mhz
--- Tools -> Upload Speed -> 921600
--- Tools-->Port--> (whatever it is)
+- - Tools -> Board -> NodeMCU 1.0 (ESP-12E Module)
+- - Tools -> Flash Size -> 4M (3M SPIFFS)
+- - Tools -> CPU Frequency -> 80 Mhz
+- - Tools -> Upload Speed -> 921600
+- - Tools-->Port--> (whatever it is)
 
 [Manufacturer Instructions](http://www.hiletgo.com/ProductDetail/1906570.html)
 
