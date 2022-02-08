@@ -122,3 +122,5 @@ From the web interface you can select a new supported crypto currency and curren
 To save your changes, just click/tap the "Save Changes" button.
 
 ## Congratulations! You've successfully set up your Cryptoticker!
+
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/WebInterfaceScreenshot.png?raw=true" />
