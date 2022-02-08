@@ -125,7 +125,9 @@ To save your changes, just click/tap the "Save Changes" button.
 
 <img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/WebInterfaceScreenshot.png?raw=true" />
 
-<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/BTCUSD.jpg?raw=true" width="100" />
-<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/DOGEUSD.jpg?raw=true" width="100" />
-<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ETHUSD.jpg?raw=true" width="100" />
-<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/LTCUSD.jpg?raw=true" width="100" />
+<ul>
+<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/BTCUSD.jpg?raw=true" width="250" /></li>
+<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/DOGEUSD.jpg?raw=true" width="250" /></li>
+<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ETHUSD.jpg?raw=true" width="250" /></li>
+<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/LTCUSD.jpg?raw=true" width="250" /></li>
+</ul>
