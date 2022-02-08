@@ -124,10 +124,7 @@ To save your changes, just click/tap the "Save Changes" button.
 ## Congratulations! You've successfully set up your Cryptoticker!
 
 <img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/WebInterfaceScreenshot.png?raw=true" />
-
-<ul>
-<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/BTCUSD.jpg?raw=true" width="250" /></li>
-<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/DOGEUSD.jpg?raw=true" width="250" /></li>
-<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ETHUSD.jpg?raw=true" width="250" /></li>
-<li><img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/LTCUSD.jpg?raw=true" width="250" /></li>
-</ul>
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/BTCUSD.jpg?raw=true" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/DOGEUSD.jpg?raw=true" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ETHUSD.jpg?raw=true" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/LTCUSD.jpg?raw=true" />
