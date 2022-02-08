@@ -3,7 +3,7 @@
 A smart 3D Printed ESP8266 Cryptocurrency Ticker
 
 <img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ToTheMoon-With-ShibeLid.jpg?raw=true" width="510"/>
-<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/Interior-OriginalEnclosure.jpg?raw=true" width="256" />
+<!-- <img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/Interior-OriginalEnclosure.jpg?raw=true" width="256" /> -->
 
 
 ## What You'll Need
@@ -124,3 +124,8 @@ To save your changes, just click/tap the "Save Changes" button.
 ## Congratulations! You've successfully set up your Cryptoticker!
 
 <img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/WebInterfaceScreenshot.png?raw=true" />
+
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/BTCUSD.jpg?raw=true" width="100" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/DOGEUSD.jpg?raw=true" width="100" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/ETHUSD.jpg?raw=true" width="100" />
+<img src="https://github.com/NexGen-Digital-Solutions/NexGen-Crypto-Ticker/blob/main/images/LTCUSD.jpg?raw=true" width="100" />
